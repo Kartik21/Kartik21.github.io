@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Kartik's HomePage"
 title_separator          : "-"
 name                     : &name "Kartik Ravisankar"
-description              : &description "personal description"
+description              : &description "Multilingual NLP Researcher"
 url                      : https://kartik21.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Kartik21/Kartik21.github.io"
@@ -21,12 +21,12 @@ repository               : "Kartik21/Kartik21.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "IMG_1153.JPG"
+  avatar           : "IMG_7674.JPEG"
   name             : "Kartik"
   pronouns         : # example: "she/her"  
-  bio              : "MS in Applied Mathematics and Scientific Computing"
-  location         : "University of Maryland, College Park"
-  employer         : ""
+  bio              : "MS in Applied Mathematics and Scientific Computing (AMSC)"
+  location         : "Hyattsville, MD"
+  School           : "University of Maryland, College Park"
   uri              : # URL
   email            : "kravisan@umd.edu" 
 
