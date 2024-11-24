@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Kartik's HomePage"
 title_separator          : "-"
 name                     : &name "Kartik Ravisankar"
-description              : &description "Multilingual NLP Researcher"
+description              : &description "Multilingual NLP Research \n under the guidance of Dr. Marine Carpuat"
 url                      : https://kartik21.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Kartik21/Kartik21.github.io"
@@ -21,7 +21,7 @@ repository               : "Kartik21/Kartik21.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "IMG_7674.JPEG"
+  avatar           : "IMG_1153.JPG"
   name             : "Kartik"
   pronouns         : # example: "she/her"  
   bio              : "MS in Applied Mathematics and Scientific Computing (AMSC)"
@@ -44,7 +44,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "https://github.com/Kartik21"
+  github           : "Kartik21"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -58,7 +58,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "https://www.linkedin.com/in/kartikravisankar/"
+  linkedin         : "kartikravisankar/"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -76,12 +76,10 @@ author:
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
-  books:
-    title: 'Books'
-  manuscripts:
-    title: 'Journal Articles'    
-  conferences:
-    title: 'Conference Papers'
+  preprint:
+    title: 'Preprints'    
+  publications:
+    title: 'Recent Publications'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
