@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 ![Illuatration of a momentary lapse of reason](/images/About.jpeg){: .align-right width="300px"}
-👨🏻‍💻 I'm a graduate student in **[Applied Mathematics and Scientific Computing (AMSC)](https://amsc.umd.edu/academics/program-concentrations/applied-mathematics.html)**A at University of Maryland, College Park, advised by **[Dr.Marine Carpuat](https://www.cs.umd.edu/~marine/)**.
+👨🏻‍💻 I'm a graduate student in **[Applied Mathematics and Scientific Computing (AMSC)](https://amsc.umd.edu/academics/program-concentrations/applied-mathematics.html)** at University of Maryland, College Park, advised by **[Dr.Marine Carpuat](https://www.cs.umd.edu/~marine/)**.
 
 🔬 My research interests are in Multilingual NLP, mechanistic interpretability, ensembling language models, and machine translation (MT). 
 
