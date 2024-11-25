@@ -21,7 +21,7 @@ repository               : "Kartik21/Kartik21.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Untitled design.jpg"
+  avatar           : "IMG_1153.JPG"{: width="300px"}
   name             : "Kartik"
   pronouns         : # example: "she/her"  
   bio              : "NLP Research Scientist"
