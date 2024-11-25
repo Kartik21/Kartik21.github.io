@@ -21,10 +21,10 @@ repository               : "Kartik21/Kartik21.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "IMG_1153.JPG"
+  avatar           : "IMG_6612-EDIT.jpg"
   name             : "Kartik"
   pronouns         : # example: "she/her"  
-  bio              : "MS in Applied Mathematics and Scientific Computing (AMSC)"
+  bio              : "NLP Research Scientist"
   location         : "Hyattsville, MD"
   School           : "University of Maryland, College Park"
   uri              : # URL
