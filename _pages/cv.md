@@ -24,5 +24,5 @@ redirect_from:
 
 
 
-<iframe src="../files/Resume_KartikRavisankar.pdf" width="640" height="480" allow="autoplay"></iframe>
+<iframe src="../files/Resume_KartikRavisankar.pdf" width="1000" height="820" allow="autoplay"></iframe>
 
