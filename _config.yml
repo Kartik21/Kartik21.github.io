@@ -250,8 +250,11 @@ defaults:
       author_profile: true
       share: true
       comments: true
+  
+
+  '''
   # _publications
-  - scope:
+   - scope:
       path: ""
       type: publications
     values:
@@ -268,6 +271,11 @@ defaults:
       author_profile: true
       share: true
       comment: true
+  
+  
+  '''
+ 
+
   # _talks
   - scope:
       path: ""
