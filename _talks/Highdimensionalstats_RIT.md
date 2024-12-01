@@ -27,5 +27,5 @@ I gave this talk on Graphical Models based on Chapter 11 of Wainwright's High-di
 
 
 
-<iframe src="https://drive.google.com/file/d/1ah5jC9g4lQ_d6OcISVXz66KAQftKE-Xl/preview" width="640" height="480" allow="autoplay"></iframe>
+<iframe src="../files/Graphical_Models_for_high_dimensional_data.pdf" width="640" height="480" allow="autoplay"></iframe>
 

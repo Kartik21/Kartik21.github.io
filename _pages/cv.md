@@ -24,6 +24,5 @@ redirect_from:
 
 
 
-
-<iframe src="https://drive.google.com/file/d/1FZUOejpic3xzIRdOLRu4F1EnTDAYO9Vh/view?usp=drive_link" width="640" height="480" allow="autoplay"></iframe>
+<iframe src="../files/Resume_KartikRavisankar.pdf" width="640" height="480" allow="autoplay"></iframe>
 
