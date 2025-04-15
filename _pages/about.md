@@ -18,7 +18,7 @@ redirect_from:
 
 🎭 Aside from research and work, I enjoy running, cooking, and talking endlessly about the English Premier League. 
 
-You can find more information in my **[CV]**. 
+You can find more information in my **[CV](../assets/Resume_KartikRavisankar.pdf)**.
 
 
 
